@@ -1,0 +1,1 @@
+echo "hello, I started to learn aws devops"
